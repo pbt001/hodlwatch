@@ -1,0 +1,30 @@
+.bg-light {
+  background-color: whitesmoke; }
+
+.ExchangesList table, .ExchangesList tr, .ExchangesList td, .ExchangesList th {
+  background-color: whitesmoke; }
+
+.ExchangesList--exchangeNameColumn, .ExchangesList--title {
+  display: inline-flex; }
+
+.ExchangesList--exchangeTitle {
+  color: #3273dc;
+  cursor: pointer; }
+  .ExchangesList--exchangeTitle:hover {
+    text-decoration: underline; }
+
+.bg-light {
+  background-color: whitesmoke; }
+
+.PortfolioList--table, .PortfolioList--table-tr, .PortfolioList--table-td {
+  background-color: whitesmoke; }
+
+.PortfolioList--cell {
+  vertical-align: middle !important; }
+
+.PortfolioList--symbolTitle {
+  color: #3273dc;
+  cursor: pointer; }
+  .PortfolioList--symbolTitle:hover {
+    text-decoration: underline; }
+
